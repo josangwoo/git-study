@@ -1,3 +1,7 @@
 sdfasg
 test2!add - mbranch
+<<<<<<< HEAD
 many hot fix
+=======
+기능 추가
+>>>>>>> 8ca981f (추가)
